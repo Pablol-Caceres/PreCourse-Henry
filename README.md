@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repo del modulo 0 del curso de Henry
+Este es un proyecto de prueba y clonarlo a mi repo local
